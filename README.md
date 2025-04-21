@@ -24,13 +24,13 @@ To run this game locally, follow these steps:
    git clone https://github.com/sanchitv26/Snake-game.git
 
 2. Navigate to the project directory:
-   cd Snake-game
+   ## cd Snake-game
 
 3. Ensure you have Python installed on your machine.
 You can download it from python.org.
 
 5. Install the required libraries (if not already installed):
-   ##pip install PythonTurtle
+   ## pip install PythonTurtle
 
 ## Usage
 To start the game, run the following command in your terminal:
@@ -66,4 +66,4 @@ Special thanks to the Python community and the Turtle graphics documentation for
 - **Demo Link**: If you have a live demo of the game hosted somewhere, include a link to it.
 - **Badges**: You can add badges for build status, license, etc., at the top of your README.
 
-Feel free to customize any part of this README to better fit your projec
+Feel free to customize any part of this README to better fit your project and personal style!
